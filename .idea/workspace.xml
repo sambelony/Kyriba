@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f75dc9f-3d13-4e29-a268-3119024e1062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kyriba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/FilteredLogs.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/Log1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/Log2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/Log3.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/NotLogFileTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Kyriba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder/FilteredLogs.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder/Log1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder/Log2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder/Log3.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder/NotLogFileTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kyriba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Folder/FilteredLogs.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

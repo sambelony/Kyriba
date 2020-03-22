@@ -1,0 +1,23 @@
+plugins {
+    id 'application'
+}
+
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+version = '1.0.0'
+
+mainClassName = 'Kyriba'
+
+
+jar {
+  manifest {
+    attributes(
+      'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+      'Main-Class': 'Kyriba'
+    )
+  }
+}
