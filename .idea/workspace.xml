@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f75dc9f-3d13-4e29-a268-3119024e1062" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kyriba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/FilteredLogs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/Log1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/Log2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/Log3.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Folder/NotLogFileTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kyriba/Kyriba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Folder/FilteredLogs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Folder/Log1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Folder/Log2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Folder/Log3.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Folder/NotLogFileTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kyriba.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZLl3Beknx5OaHgGYJsthu4aZ1v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Kyriba" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Kyriba" />
+      <module name="Kyriba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f75dc9f-3d13-4e29-a268-3119024e1062" name="Default Changelist" comment="" />
+      <created>1584626053393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584626053393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584699062048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584699062048" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584699050004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1584699050004" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1584893838967">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584893838967" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1584893838967">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584893838967" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1584893838967">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584893838967" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1584893838967">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584893838967" />
+    <state width="734" height="204" key="GridCell.Tab.1.bottom" timestamp="1584868422813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="734" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584868422813" />
+    <state width="734" height="204" key="GridCell.Tab.1.center" timestamp="1584868422813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="734" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584868422813" />
+    <state width="734" height="204" key="GridCell.Tab.1.left" timestamp="1584868422813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="734" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584868422813" />
+    <state width="734" height="204" key="GridCell.Tab.1.right" timestamp="1584868422813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="734" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584868422813" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1584698927279">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1280.680@0.0.1280.680" timestamp="1584698927279" />
+    <state x="93" y="100" width="592" height="487" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584868566251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="100" width="592" height="487" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1584868566251" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1584693255719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584693255719" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1584698927283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584698927283" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584888825521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584888825521" />
+  </component>
+</project>
